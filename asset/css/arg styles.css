@@ -1,0 +1,60 @@
+.h1 {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 80px;
+color: black;
+display: inline-flexbox;
+background-color: transparent;
+}
+
+.h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color: black;
+    display: inline-flexbox;
+    background-color: transparent;
+    }
+
+*{
+    background-color: hsl(180, 48%, 94%);
+}
+.p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color: black;
+    display: block ;
+    background-color: transparent;
+    margin-left: 15%;
+    margin-right: 15%;
+    }
+
+.span {
+    display: block;
+    text-overflow:clip;
+    text-indent: 15% ;
+}
+
+.tituloslides{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    color: transparent;
+}
+
+.formato_form{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: blue;
+    text-align: center;
+    background-color: transparent;
+    border-color: black;
+    border-radius: 5px;
+ 
+}
+
+.texto {
+    font-family: Cambria;
+    font-size:15px;
+    color: black;
+    display: block ;
+    background-color: transparent;
+}
